@@ -1,0 +1,20 @@
+PODS:
+  - AsyncTimer (2.2.0)
+  - Haptica (3.0.2)
+
+DEPENDENCIES:
+  - AsyncTimer
+  - Haptica
+
+SPEC REPOS:
+  trunk:
+    - AsyncTimer
+    - Haptica
+
+SPEC CHECKSUMS:
+  AsyncTimer: d8512868a7f4de79f58b6962d590f04b8dab5f7a
+  Haptica: dc206651beeca25ab4744c633fbf0ae4d1e86baf
+
+PODFILE CHECKSUM: 6ba540374b7541ddaec7dddfe8fbd7d21dd6d315
+
+COCOAPODS: 1.10.2
